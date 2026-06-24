@@ -107,10 +107,5 @@ POST   /api/routes/optimize            # AI route optimization
 
 ---
 
-## About
 
-Built by **Nehal Garg** as part of interview preparation for the Software Engineer
-role on KW International's AIRO team. The project is designed to reflect a real
-understanding of KW's logistics operations — including their work with Samsung,
-LG, and Amazon's SEND program.
 
